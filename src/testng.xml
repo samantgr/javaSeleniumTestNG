@@ -1,0 +1,8 @@
+<suite name="TestNG Test Suite" >
+    <test name="Tests" >
+        <classes>
+            <class name="TestsPackage.BrowserCommands" />
+            <class name="TestsPackage.NavigationCommands" />
+        </classes>
+    </test>
+</suite>
